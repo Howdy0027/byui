@@ -1,0 +1,44 @@
+nav, footer {
+    text-align: center;
+    background-color: steelblue;
+    color: white;
+    padding: 2%;
+}
+nav a{
+    font-size: 127%;
+    text-decoration: none;
+    color: white;
+    margin: 1%;
+}
+footer p {
+    font-size: 20px;
+    margin: 20px auto;
+}
+a:hover {
+    text-decoration: none;
+    background-color: slategray;
+    color: whitesmoke;
+    padding: .5%;
+}
+main{
+    text-align: center;
+}
+* {
+    border: 2px solid slategray;
+}
+img {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+body {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+main p {
+    width: 80%;
+    margin: 50px auto;
+    text-align: center;
+}
